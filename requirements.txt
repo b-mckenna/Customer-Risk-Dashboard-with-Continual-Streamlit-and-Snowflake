@@ -1,5 +1,5 @@
 # requirements.txt
-snowflake-connector-python==2.7.6
+snowflake-connector-python==3.0.2
 pandas==1.4.0
 numpy==1.22.2
 matplotlib==3.5.1
